@@ -11,9 +11,7 @@ To practice the exercises, you can use the online compilers like
 * [https://www.codechef.com/ide](https://www.codechef.com/ide)
 * [https://www.programiz.com/c-programming/online-compiler/](https://www.programiz.com/c-programming/online-compiler/).
 
-I recommend [https://exercism.org](https://exercism.org) as the platform to
-learn programming, including C, and practice with a community of intrinsically
-motivated developers.
+I
 
 ### Reference Books
 
